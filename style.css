@@ -15,7 +15,7 @@ body{
     color: white;
     position: relative;
 }
-.display{
+.result{
     font-size: 120px;
     font-weight: 300;
     height: 150px;
@@ -48,7 +48,7 @@ body{
 .button.operation{
     background: #f1a33c ;
 }
-.button.number-0{
+#zero{
     grid-column: 1/3;
     width: 250px;
     border-radius: 50px;
